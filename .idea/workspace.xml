@@ -15,6 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\迅雷下载\Git-2.25.0-64-bit.exe.xltd" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,17 +44,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="750" y="148" key="FileChooserDialogImpl" timestamp="1580707408383">
+    <state x="361" y="76" key="#Notifications" timestamp="1580749546248">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="750" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1580707408383" />
-    <state x="506" y="46" key="SettingsEditor" timestamp="1580707425863">
+    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1580749546248" />
+    <state x="750" y="148" key="FileChooserDialogImpl" timestamp="1580749508041">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="506" y="46" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580707425863" />
-    <state x="721" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580697086447">
+    <state x="750" y="148" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1580749508041" />
+    <state x="506" y="46" key="SettingsEditor" timestamp="1580749514333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="721" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580697086447" />
+    <state x="506" y="46" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580749514333" />
+    <state x="547" y="150" key="Vcs.Push.Dialog.v2" timestamp="1580748470270">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="547" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580748470270" />
+    <state x="721" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580795777852">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="721" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580795777852" />
+    <state x="617" y="155" key="search.everywhere.popup" timestamp="1580795726601">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="617" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1580795726601" />
+    <state x="847" y="349" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580904392984">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="847" y="349" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.834@0.0.1536.834" timestamp="1580904392984" />
   </component>
 </project>
