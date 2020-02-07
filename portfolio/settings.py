@@ -24,7 +24,7 @@ SECRET_KEY = 'y5^_%!#@d+i2mi0z3c@v_$@&m6wq@(_3737$i@ms#qo8jm+@pz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['2907xc1118.zicp.vip','127.0.0.1']
 
 # Application definition
 
@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 新建app
     'gallery.apps.GalleryConfig',
+    'blog',
 ]
 
 MIDDLEWARE = [
